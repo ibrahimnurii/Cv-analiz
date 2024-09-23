@@ -1,4 +1,3 @@
-İşte CV analizi yapan Python kodu için uygun bir README dosyası, ismin ve diğer detaylar kullanılarak oluşturuldu:
 
 ```markdown
 # CV Analyzer
